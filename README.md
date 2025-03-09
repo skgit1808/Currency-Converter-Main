@@ -1,7 +1,7 @@
 # Currency Converter
 
 ```sh
-https://currency-converter-nu-nine.vercel.app/
+https://currency-converter-main-dusky.vercel.app/
 ```
 
 This project is a currency converter application built with React.js and Vite. It allows users to convert amounts between different currencies using real-time exchange rates.
